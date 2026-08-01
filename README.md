@@ -1,4 +1,4 @@
-## Heyo! 🤘 I'm Simen 🤘
+## Hey! 🤘 I'm Simen 🤘
 I'm a junior frontend / full-stack developer based in Norway, with a Bachelor's degree in IT from Høyskolen Kristiania.
 
 ### 💻 Stack & Tools
