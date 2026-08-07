@@ -2,7 +2,7 @@
 I'm a junior frontend / full-stack developer based in Norway, with a Bachelor's degree in IT from Høyskolen Kristiania.
 
 ### 💻 Stack & Tools
-- **Frontend:** React, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Tailwind
+- **Frontend:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Tailwind
 - **Backend:** .NET Web API, C#
 - **Mobile:** iOS (Swift & SwiftUI), Android (Kotlin), Cross-platform (ReactNative)
 
