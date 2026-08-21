@@ -7,7 +7,7 @@ I'm a junior frontend / full-stack developer based in Norway, with a Bachelor's 
 - **Mobile:** iOS (Swift & SwiftUI), Android (Kotlin), Cross-platform (ReactNative)
 
 ### 🥋 Experience
-During my Bachelor's project / internship at SEEN, I worked alongside experienced developers and designers to design, test and implement a simplified user wizard for CSV-data importing. This feature was pushed to SEEN's live production environment.
+During my Bachelor's project / internship at SEEN, I worked alongside experienced developers and designers to design, test and implement a simplified user wizard for CSV-data importing using React and TypeScript. This feature was pushed to SEEN's live production environment.
 
 <!--
 **N7Vulgaris/N7Vulgaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
